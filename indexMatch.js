@@ -16,5 +16,5 @@ function indexMatch(arr) {
 }
 
 module.exports = {
-	indexMatch: indexMatch,
+	indexMatch: indexMatch
 };

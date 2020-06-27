@@ -16,7 +16,3 @@ describe("indexMatch function", () => {
         expect(indexMatchModule.indexMatch(undefined)).toBe(false);
     });
 });
-
-
-//[-6, 0, 2, 40]
-//[1, 5, 7, 8]
